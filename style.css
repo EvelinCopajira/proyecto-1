@@ -34,5 +34,9 @@ h4 {
 }
 
 .navbar-furor {
-    padding: 0;
+    background-color: #aa7ab7 !important;
+}
+
+body {
+    background-color: #d1bbd4 !important;
 }
